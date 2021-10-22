@@ -1,13 +1,14 @@
 # Hello there 👋
  
-<p float="left">
+<p float="center">
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
 </p>
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
+</p>
+<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
+</p>
+ 
 I make elegantly professional **  📱 Android apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
  
@@ -18,7 +19,7 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
  
   <p align="center">
     <br>
-   # 你好，世界
+     你好，世界
     <br>
 </p>
  
@@ -27,34 +28,9 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
   <br><br>
   <samp>
   </samp>
-</p>
-
+</details>
  
-<img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
-</p>
- 
- 
-<hr>
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
-
-<p  align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
-
-</p>
-
----
-
- 
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)-->
  
   
  
