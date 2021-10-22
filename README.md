@@ -1,9 +1,10 @@
+# Hello there 👋
+ 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
-</p># Hello there 👋
- 
+</p>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
@@ -17,7 +18,7 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
  
   <p align="center">
     <br>
-   你好，世界 👋
+   # 你好，世界
     <br>
 </p>
  
@@ -45,7 +46,7 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
 </p>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+ <img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
 </p>
 
