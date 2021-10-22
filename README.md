@@ -1,6 +1,6 @@
 # Hello there 👋
  
-<p float="center">
+<p align="center">
   <a href="https://golang.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
   </a>
