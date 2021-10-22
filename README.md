@@ -9,7 +9,7 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
 <details>
   <summary>Some other about me~e~e</summary>
   <br>
-### 你好，世界 👋
+  你好，世界 👋
   
 <hr>
 <p align="center">
@@ -31,7 +31,7 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
 
 ---
 
-<!--
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
@@ -105,9 +105,9 @@ I make elegantly professional **  📱 Android apps and 🌐 Website** for a liv
   </a>
 </p>
 
--->
+ 
 
-<!--
+ 
 **halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -120,4 +120,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ 
